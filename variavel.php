@@ -1,6 +1,5 @@
 <?php
 
-$ idade = 21;
-
+$idade = 21;
 
 echo $idade;
